@@ -14,3 +14,10 @@ UCR Extension Program HW 21
 - Relevant search results will be displayed dynamically.
 - Users can save books that they'rs interested in.
 - A description for each title can be viewed.
+
+
+![alt text](/client/public/images/screenshot1.PNG)
+
+![alt text](/client/public/images/screenshot2.PNG)
+
+![alt text](/client/public/images/screenshot3.PNG)
